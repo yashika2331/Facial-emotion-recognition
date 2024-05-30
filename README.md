@@ -15,7 +15,9 @@ NumPy
 # Implementation
 1.Clone the repository and install all the requirements
 
-git clone https://github.com/yashika2331/Facial-emotion-recognition
+git clone https://github.com/yashika2331/Facial-emotion-recognition.git
+
+cd Facial-emotion-recognition
 
 2.Deploy the model in the link below in the saame repository of the above cloned files
 https://drive.google.com/file/d/1IvcgGG4U7D2kv7BYVZqudXcO3Qq5TNW3/view?usp=drive_link
