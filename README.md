@@ -13,11 +13,15 @@ Keras
 OpenCV
 NumPy
 # Implementation
-1.Deploy the model in the link below in the saame repository of the above cloned files
+1.Clone the repository and install all the requirements
+
+git clone https://github.com/yashika2331/Facial-emotion-recognition
+
+2.Deploy the model in the link below in the saame repository of the above cloned files
 https://drive.google.com/file/d/1IvcgGG4U7D2kv7BYVZqudXcO3Qq5TNW3/view?usp=drive_link
 
-2.Run the script
+3.Run the script
 
 python faceemotion.py
 
-3.Access webcam,captures the frame and classifies the emotion
+4.Access webcam,captures the frame and classifies the emotion
