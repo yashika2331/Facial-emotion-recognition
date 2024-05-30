@@ -18,13 +18,13 @@ NumPy
 ```bash
     git clone https://github.com/yourusername/facial-emotion-recognition.git
     cd facial-emotion-recognition
-    ```
+```
 
 2.Deploy the model in the link below in the saame repository of the above cloned files
 https://drive.google.com/file/d/1IvcgGG4U7D2kv7BYVZqudXcO3Qq5TNW3/view?usp=drive_link
 
 3.Run the script
-
-python faceemotion.py
-
+```bash
+       python faceemotion.py
+```
 4.Access webcam,captures the frame and classifies the emotion
