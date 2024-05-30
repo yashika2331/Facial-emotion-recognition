@@ -1,18 +1,25 @@
 # Facial-emotion-recognition
-# Overview
+## Overview
 This project implements a facial emotion recognition system using a pre-trained convolutional neural network (CNN). The model is trained to recognize various emotions from facial expressions captured in images. The trained model is saved in H5 format, and the model architecture is described using a JSON file.
-# Features 
+## Features 
 Emotion Detection: Recognizes emotions such as happy, sad, angry, surprised, neutral, etc.
+
 Pre-trained Model: Uses a pre-trained CNN model saved in H5 format.
+
 Model Architecture: The architecture of the model is saved in JSON format.
+
 Real-time Prediction: Capable of making real-time predictions on images from a webcam.
-# Requirements
+## Requirements
 Python 3.6+
+
 TensorFlow 2.x
+
 Keras
+
 OpenCV
+
 NumPy
-# Implementation
+## Implementation
 1.Clone the repository and install all the requirements
 
 ```bash
