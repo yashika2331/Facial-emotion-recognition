@@ -17,5 +17,7 @@ NumPy
 https://drive.google.com/file/d/1IvcgGG4U7D2kv7BYVZqudXcO3Qq5TNW3/view?usp=drive_link
 
 2.Run the script
+
 python faceemotion.py
+
 3.Access webcam,captures the frame and classifies the emotion
