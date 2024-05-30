@@ -23,8 +23,8 @@ NumPy
 1.Clone the repository and install all the requirements
 
 ```bash
-    git clone https://github.com/yourusername/facial-emotion-recognition.git
-    cd facial-emotion-recognition
+    git clone https://github.com/yashika2331/Facial-emotion-recognition.git
+    cd Facial-emotion-recognition
 ```
 
 2.Deploy the model in the link below in the saame repository of the above cloned files
